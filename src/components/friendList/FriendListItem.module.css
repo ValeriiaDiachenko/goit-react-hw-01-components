@@ -1,0 +1,27 @@
+.item {
+    display: flex;
+    background-color: rgb(225, 169, 27);
+    max-width: 150px;
+    align-items: center;
+    margin: 10px auto;
+    border-radius: 5px;
+    padding: 5px 10px;
+    justify-content: space-between;
+}
+
+.Online {
+    background-color: rgb(8, 79, 8);
+    width: 20px;
+    height: 20px;
+    border-radius: 50%;
+}
+
+.Offline {
+    background-color: rgb(232, 59, 59);
+    width: 20px;
+    height: 20px;
+    border-radius: 50%;
+}
+.name{
+    font-size: 14px;
+}

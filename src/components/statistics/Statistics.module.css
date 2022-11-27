@@ -1,0 +1,30 @@
+.statistics {
+    margin: 0 auto;
+
+    text-align: center;
+    display: block;
+}
+
+.title {
+    font-size: 18px;
+    background-color: rgb(197, 139, 139);
+    margin: 0;
+    padding: 25px 0;
+}
+
+.statlist {
+    list-style: none;
+    display: flex;
+    padding: 0;
+    margin: 0;
+}
+
+.item {
+    border: 1px solid black;
+    display: flex;
+    padding: 10px;
+    flex-direction: column;
+    background-color: rgb(243, 189, 74);
+    font-size: 14px;
+}
+
